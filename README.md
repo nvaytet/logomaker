@@ -15,3 +15,4 @@ will create a logo with the `logomaker` footer:
 ## Requirements
 
 - `inkscape` needs to be installed on the system
+- the [Lato](https://fonts.google.com/specimen/Lato) font needs to be installed on the system
